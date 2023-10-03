@@ -1,0 +1,4 @@
+---
+# vars file for module_test
+file_path: "testfile.txt"
+file_content: "This is the content to be written duarin ..."

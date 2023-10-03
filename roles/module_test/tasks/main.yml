@@ -1,0 +1,5 @@
+---
+- name: Call my test_module
+  beatl_module:
+    new_path: "{{ file_path }}"
+    content: "{{ file_content }}"
